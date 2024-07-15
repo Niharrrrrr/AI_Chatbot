@@ -1,0 +1,5 @@
+Flask
+PyPDF2
+nltk
+scikit-learn
+google-generativeai
