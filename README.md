@@ -11,8 +11,8 @@ Installation
 
 Clone the repository:
 ```
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/Niharrrrrr/AI_Chatbot.git
+cd AI_Chatbot
 ```
 
 Install dependencies using pip and the requirements.txt file:
