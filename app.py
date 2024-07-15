@@ -9,7 +9,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 app = Flask(__name__)
 
-generativeai.configure(api_key="AIzaSyD2kOL6PG2V4zYKWZqsNBZ0f-Y72Zu_2i0")
+generativeai.configure(api_key="YOUR OWN API KEY")
 
 pdf_file = 'Corpus.pdf'
 corpus_text = ''
