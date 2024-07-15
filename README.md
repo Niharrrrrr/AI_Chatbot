@@ -20,8 +20,11 @@ Install dependencies using pip and the requirements.txt file:
 pip install -r requirements.txt
 ```
 ## Running the Application
+
 To run the Flask application:
+
 VERY IMPORTANT:
+
 After cloning , In the app.py file use your Google Generative API KEY for generation.
 
 
