@@ -1,4 +1,6 @@
-# AI_Chatbot
+# AI_Chatbot 
+
+##VIDEO LINK: https://www.loom.com/share/da720f4f9732422b8bcfc2c0d1d7cd02?sid=543aead6-47c7-451c-b7e2-60235bda0985
 
 ## Prerequisites
 
